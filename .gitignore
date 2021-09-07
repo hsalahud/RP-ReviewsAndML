@@ -61,6 +61,12 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 
+### DotnetCore ###
+# .NET Core build folders
+bin/
+obj/
+
+
 # StyleCop
 StyleCopReport.xml
 
